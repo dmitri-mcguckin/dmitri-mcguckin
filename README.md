@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, I'm Dimitry 👋
 
-<!--
-**dmitri-mcguckin/dmitri-mcguckin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I love all things aerospace.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📡 During the day, I make satellite and ground-station software for companies you've probably of before.
+
+***
+
+🛰️ During the night I do even more of it for [@psas](https://github.com/psas) and its two sub-divisions: [@oresat](https://github.com/oresat) and [@uniclogs](https://github.com/uniclogs).
+
+&nbsp;
+
+PSAS is a student-led satellite & rocket team out of Portland OR which I have been apart of for quite some time.
+ 
+***
+
+📭 Want to talk? Connect with me on [LinkedIn](https://www.linkedin.com/in/dimitry-mcguckin/)
