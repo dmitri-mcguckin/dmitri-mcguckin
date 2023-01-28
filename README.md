@@ -2,15 +2,19 @@
 
 🚀 I love all things aerospace.
 
-🌐 Checkout [my website](https://dmitrimcguckin.com), it has high-level descriptions of all of the projects I've made or contributed to
+🌐 Checkout [my website](https://dmitrimcguckin.com).
 
-🛰️ Find most of my work over at [@oresat](https://github.com/oresat) and [@psas](https://github.com/psas)
-
-*(Just about everything I do is open-source and open-hardware)*
+&nbsp;
 
 ***
 
-📡 Lately I've been creating software things for [@oresat](https://github.com/oresat)'s [UniClOGS](https://github.com/oresat/uniclogs-software) groundstation in anticipation for [Oresat0](https://www.oresat.org/satellites/oresat-0) and [Oresat1](https://www.oresat.org/satellites/oresat). (Read more about UniClOGS [here](https://www.oresat.org/technologies/ground-stations#h.xwp9u3881b6t))
+📡 During the day, I work for [CesumAstro](https://www.cesiumastro.com/), making satellites and ground-stations.
+
+&nbsp;
+
+***
+
+🛰️ Durring the night I work on [@oresat](https://github.com/oresat) and [@psas](https://github.com/psas), a student-led satellite & rocket team out of Portland OR. *(Much of what I do for them is open-source and open-hardware, too!)*
 
 ***
 
