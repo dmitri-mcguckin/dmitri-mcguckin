@@ -4,13 +4,9 @@
 
 🌐 Checkout [my website](https://dmitrimcguckin.com).
 
-&nbsp;
-
 ***
 
 📡 During the day, I work for [CesumAstro](https://www.cesiumastro.com/), making satellites and ground-stations.
-
-&nbsp;
 
 ***
 
