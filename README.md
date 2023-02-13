@@ -2,7 +2,7 @@
 
 🚀 I love all things aerospace.
 
-🌐 Checkout [my website](https://dmitrimcguckin.com).
+🌐 Checkout [my website](http://dmitrimcguckin.com).
 
 ***
 
