@@ -2,15 +2,13 @@
 
 🚀 I love all things aerospace.
 
-🌐 Checkout [my website](http://dmitrimcguckin.com).
-
 ***
 
 📡 During the day, I work for Raytheon, making ground-station software.
 
 ***
 
-🛰️ Durring the night I work on [@oresat](https://github.com/oresat) and [@psas](https://github.com/psas), a student-led satellite & rocket team out of Portland OR. *(Much of what I do for them is open-source and open-hardware, too!)*
+🛰️ Durring the night I work on [@oresat](https://github.com/oresat), [@psas](https://github.com/psas), and [UniClOGS](https://github.com/uniclogs) a student-led satellite & rocket team out of Portland OR. *(Much of what I do for them is open-source and open-hardware, too!)*
 
 ***
 
