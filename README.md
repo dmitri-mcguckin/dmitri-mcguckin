@@ -6,7 +6,7 @@
 
 ***
 
-📡 During the day, I work for [CesumAstro](https://www.cesiumastro.com/), making satellites and ground-stations.
+📡 During the day, I work for Raytheon, making ground-station software.
 
 ***
 
