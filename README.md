@@ -4,7 +4,7 @@
 
 ***
 
-📡 During the day, I work for Raytheon, making ground-station software.
+📡 During the day, I work at Raytheon, making ground-station software.
 
 ***
 
