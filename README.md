@@ -4,7 +4,7 @@
 
 ***
 
-📡 During the day, I work at Quindar, making C2 software.
+📡 During the day, I work at Arka, making software.
 
 ***
 
