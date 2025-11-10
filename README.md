@@ -12,4 +12,4 @@
 
 ***
 
-📭 Want to talk? Tweet at me [@dmitrimcguckin](https://twitter.com/DmitriMcguckin) or connect with me on [LinkedIn](https://www.linkedin.com/in/dmitrimcguckin/)
+📭 Want to talk? Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitrimcguckin/)
