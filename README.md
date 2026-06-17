@@ -4,7 +4,7 @@
 
 ***
 
-📡 During the day, I work at Arka, making software.
+📡 During the day, I make ground-station software.
 
 ***
 
